@@ -1,5 +1,7 @@
 # Task Manager 
 
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-View_Site-blue?style=for-the-badge&logo=github)](https://k0stt.github.io/task-manager)
+
 Простой менеджер задач на jQuery
 
 ## Features
